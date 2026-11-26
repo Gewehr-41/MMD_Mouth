@@ -1,0 +1,6 @@
+numpy==1.26.4
+onnxruntime>=1.16,<2
+pypinyin>=0.50
+cmudict>=1.0
+pyopenjtalk-plus>=0.4.1
+imageio-ffmpeg>=0.5

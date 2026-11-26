@@ -1,0 +1,11 @@
+exclude = [
+    ".venv-worker",
+    "data",
+    "build-tool",
+    "build-*",
+    "dist-addon",
+    "__pycache__",
+]
+
+line-length = 100
+target-version = "py310"
